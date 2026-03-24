@@ -1,4 +1,10 @@
-## Hi there 👋
+## Backend & Fintech Engineering Portfolio
+
+This repository contains public examples of backend engineering work, including:
+- Exchange API connectors (REST/WebSocket, async patterns)
+
+Note: Current trading strategies, proprietary bots, and client code are kept private.
+
 
 <!--
 **APF20/APF20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
